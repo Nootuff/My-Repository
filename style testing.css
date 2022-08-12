@@ -1,4 +1,8 @@
- .jumbotron {
+h3 {
+color: red;
+}
+
+.jumbotron {
   color: #000412;
 }
       .navbar-inverse {
